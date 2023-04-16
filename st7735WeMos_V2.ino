@@ -2,7 +2,7 @@
  * Dr.TRonik / YouTube / NİSAN 2023 / İzmir / Türkiye 
  * ESP8266, ST7735s, 128x160 1.8" TFT LCD, GYBMEP...
  * Derleme ve karta yükleme öncesi, tüm kütüphaneler arduino ide'sine yüklenmiş olmalıdır...
- * YouTube: https://youtu.be/8N5mE9_8ciQ
+ * YouTube: https://youtu.be/gqybujI4pcU
  * Bağlantılar: https://github.com/ronaer/ST7735s/blob/main/gybmep_bb.jpg
  * CS_D2, RST_D0, DC_D1, SCL_D5, SDA_D7, VDD_5V, GND_GND, BLK_3.3V
 */
